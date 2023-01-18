@@ -1,8 +1,0 @@
-D:\Coding\FixTimeSync\bin\Debug\FixTimeSync.exe.config
-D:\Coding\FixTimeSync\bin\Debug\FixTimeSync.exe
-D:\Coding\FixTimeSync\bin\Debug\FixTimeSync.pdb
-D:\Coding\FixTimeSync\obj\Debug\FixTimeSync.csproj.AssemblyReference.cache
-D:\Coding\FixTimeSync\obj\Debug\FixTimeSync.csproj.SuggestedBindingRedirects.cache
-D:\Coding\FixTimeSync\obj\Debug\FixTimeSync.csproj.CoreCompileInputs.cache
-D:\Coding\FixTimeSync\obj\Debug\FixTimeSync.exe
-D:\Coding\FixTimeSync\obj\Debug\FixTimeSync.pdb
